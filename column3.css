@@ -1,0 +1,11 @@
+/* First CSS */
+
+div.column {
+    float: left;
+    width: 33.33%;
+}
+
+img {
+    max-width: 85%;
+    max-height: 85%;
+}
